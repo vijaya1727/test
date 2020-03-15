@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Women_Tag]">
+  <test name="verify_Women_Tag(failed)">
+    <classes>
+      <class name="testPage.testWomenTag">
+        <methods>
+          <include name="Startbrowser"/>
+        </methods>
+      </class> <!-- testPage.testWomenTag -->
+    </classes>
+  </test> <!-- verify_Women_Tag(failed) -->
+</suite> <!-- Failed suite [Women_Tag] -->
